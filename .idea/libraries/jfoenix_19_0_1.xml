@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfoenix-19.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zoo_project_SoluTech/out/production/zoo_project/lib/jfoenix-19.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
