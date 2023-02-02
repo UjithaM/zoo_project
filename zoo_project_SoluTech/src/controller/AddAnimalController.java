@@ -3,7 +3,7 @@ package controller;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextField;
 
-import java.awt.*;
+
 
 public class AddAnimalController {
     public  TextField animalId;
