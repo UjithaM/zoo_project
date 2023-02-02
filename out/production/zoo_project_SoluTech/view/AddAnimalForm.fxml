@@ -58,7 +58,7 @@
             <Font name="System Bold Italic" size="15.0" />
          </font>
       </RadioButton>
-      <ComboBox fx:id="animalType" layoutX="495.0" layoutY="230.0" prefHeight="32.0" prefWidth="213.0" promptText="Select Type" />
+      <ComboBox layoutX="495.0" layoutY="230.0" prefHeight="32.0" prefWidth="213.0" promptText="Select Type" />
       <TextField layoutX="489.0" layoutY="85.0" prefHeight="39.0" prefWidth="245.0" promptText="         Search Animal ID" styleClass="edge-button" stylesheets="@../css/Butten.css">
          <font>
             <Font name="System Bold Italic" size="15.0" />
@@ -140,7 +140,7 @@
             <Font size="10.0" />
          </font>
       </Label>
-      <TextField fx:id="healthRecode" layoutX="495.0" layoutY="290.0" prefHeight="32.0" prefWidth="213.0" promptText="Health Records">
+      <TextField layoutX="495.0" layoutY="290.0" prefHeight="32.0" prefWidth="213.0" promptText="Health Records">
          <font>
             <Font name="System Bold Italic" size="15.0" />
          </font>
